@@ -2,4 +2,5 @@ gitを始めます
 
 git add
 git commit
+git rm
 を勉強したよ
